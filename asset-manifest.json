@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/goldon/static/css/main.073c9b0a.css",
+    "main.js": "/goldon/static/js/main.c2a97283.js",
+    "static/js/787.111076e7.chunk.js": "/goldon/static/js/787.111076e7.chunk.js",
+    "service-worker.js": "/goldon/service-worker.js",
+    "static/media/logo.svg": "/goldon/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/goldon/index.html",
+    "main.073c9b0a.css.map": "/goldon/static/css/main.073c9b0a.css.map",
+    "main.c2a97283.js.map": "/goldon/static/js/main.c2a97283.js.map",
+    "787.111076e7.chunk.js.map": "/goldon/static/js/787.111076e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c2a97283.js"
+  ]
+}
