@@ -15,12 +15,10 @@ import Assessment from "./Pages/Assessment/Assessment";
 
 export default function AppRoutes(props) {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <Routes>
-
         <Route exact path="/assessment" element={<Assessment />} />
- 
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   );
 }
