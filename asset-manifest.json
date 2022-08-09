@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/goldon/static/css/main.073c9b0a.css",
-    "main.js": "/goldon/static/js/main.c2a97283.js",
+    "main.css": "/goldon/static/css/main.c1be6e12.css",
+    "main.js": "/goldon/static/js/main.24d25e2c.js",
     "static/js/787.111076e7.chunk.js": "/goldon/static/js/787.111076e7.chunk.js",
+    "static/media/image_test.svg": "/goldon/static/media/image_test.8f04c3714aee1fdafa9adfe9133e70a1.svg",
+    "static/media/B-NAZANIN.TTF": "/goldon/static/media/B-NAZANIN.d7478a9ecad2d8496d98.TTF",
     "service-worker.js": "/goldon/service-worker.js",
-    "static/media/logo.svg": "/goldon/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "static/media/profile.svg": "/goldon/static/media/profile.6d3924f745f4fe150fa22120551ef5e1.svg",
+    "static/media/logo.svg": "/goldon/static/media/logo.64c35e6b45677ff3bc8eab8ab268a4dc.svg",
+    "static/media/calender.svg": "/goldon/static/media/calender.374e844a30ac04282bb227177f984a27.svg",
+    "static/media/arrow_right.svg": "/goldon/static/media/arrow_right.410d73afcc6e79896260ae77bf671d3c.svg",
+    "static/media/arrow_left.svg": "/goldon/static/media/arrow_left.5f237e1aa12a27a75adf00e88d7ba603.svg",
+    "static/media/home.svg": "/goldon/static/media/home.c2d59a89853a26552f21f57ea11b986c.svg",
     "index.html": "/goldon/index.html",
-    "main.073c9b0a.css.map": "/goldon/static/css/main.073c9b0a.css.map",
-    "main.c2a97283.js.map": "/goldon/static/js/main.c2a97283.js.map",
+    "static/media/menu.svg": "/goldon/static/media/menu.a3be5db36b5375d455135fd325dc29b3.svg",
+    "static/media/app.svg": "/goldon/static/media/app.a9614a1ffcbec2943d44f849e64e2dbf.svg",
+    "main.c1be6e12.css.map": "/goldon/static/css/main.c1be6e12.css.map",
+    "main.24d25e2c.js.map": "/goldon/static/js/main.24d25e2c.js.map",
     "787.111076e7.chunk.js.map": "/goldon/static/js/787.111076e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.c2a97283.js"
+    "static/css/main.c1be6e12.css",
+    "static/js/main.24d25e2c.js"
   ]
 }
