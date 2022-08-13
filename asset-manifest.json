@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/goldon/static/css/main.c1be6e12.css",
-    "main.js": "/goldon/static/js/main.27251ff3.js",
+    "main.css": "/goldon/static/css/main.3af7e64c.css",
+    "main.js": "/goldon/static/js/main.fd988f0e.js",
     "static/js/787.111076e7.chunk.js": "/goldon/static/js/787.111076e7.chunk.js",
-    "static/media/image_test.svg": "/goldon/static/media/image_test.8f04c3714aee1fdafa9adfe9133e70a1.svg",
     "static/media/B-NAZANIN.TTF": "/goldon/static/media/B-NAZANIN.d7478a9ecad2d8496d98.TTF",
     "service-worker.js": "/goldon/service-worker.js",
-    "static/media/profile.svg": "/goldon/static/media/profile.6d3924f745f4fe150fa22120551ef5e1.svg",
-    "static/media/logo.svg": "/goldon/static/media/logo.64c35e6b45677ff3bc8eab8ab268a4dc.svg",
-    "static/media/calender.svg": "/goldon/static/media/calender.374e844a30ac04282bb227177f984a27.svg",
-    "static/media/arrow_right.svg": "/goldon/static/media/arrow_right.410d73afcc6e79896260ae77bf671d3c.svg",
-    "static/media/arrow_left.svg": "/goldon/static/media/arrow_left.5f237e1aa12a27a75adf00e88d7ba603.svg",
-    "static/media/home.svg": "/goldon/static/media/home.c2d59a89853a26552f21f57ea11b986c.svg",
+    "static/media/test_logo.svg": "/goldon/static/media/test_logo.38b2f279547bb5382bd963c86668bee8.svg",
+    "static/media/image_test.svg": "/goldon/static/media/image_test.192c2d3a61ae51651d5803a3d1291eb9.svg",
+    "static/media/settings.svg": "/goldon/static/media/settings.709a4a75187c3c245ac3880ad1e566df.svg",
+    "static/media/learn.svg": "/goldon/static/media/learn.d558041bd5999108ca524df1e52629c7.svg",
+    "static/media/profile.svg": "/goldon/static/media/profile.6d010a58d6417e69497c85192593114b.svg",
+    "static/media/logo.svg": "/goldon/static/media/logo.dca6ddf7da4b94f237429594a734363a.svg",
+    "static/media/calender.svg": "/goldon/static/media/calender.796bf2a4ad89e3c63595a468d3cdfa5d.svg",
+    "static/media/back.svg": "/goldon/static/media/back.c87dfa085ff1f6cd08650e6585454c87.svg",
     "index.html": "/goldon/index.html",
-    "static/media/menu.svg": "/goldon/static/media/menu.a3be5db36b5375d455135fd325dc29b3.svg",
-    "static/media/app.svg": "/goldon/static/media/app.a9614a1ffcbec2943d44f849e64e2dbf.svg",
-    "main.c1be6e12.css.map": "/goldon/static/css/main.c1be6e12.css.map",
-    "main.27251ff3.js.map": "/goldon/static/js/main.27251ff3.js.map",
+    "static/media/app.svg": "/goldon/static/media/app.22107746cc67ff50a511392a3b8020be.svg",
+    "main.3af7e64c.css.map": "/goldon/static/css/main.3af7e64c.css.map",
+    "main.fd988f0e.js.map": "/goldon/static/js/main.fd988f0e.js.map",
     "787.111076e7.chunk.js.map": "/goldon/static/js/787.111076e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1be6e12.css",
-    "static/js/main.27251ff3.js"
+    "static/css/main.3af7e64c.css",
+    "static/js/main.fd988f0e.js"
   ]
 }
