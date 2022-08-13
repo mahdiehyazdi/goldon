@@ -1,3 +1,39 @@
+.Assessment__main__description {
+    display: flex !important;
+    justify-content: center !important;
+    padding-top: 20px !important;
+}
+.Assessment__main__description__box {
+    background-color: #0c3877;
+    box-shadow: 0px 0px 5px rgba(112, 107, 107, 0.25);
+    border-radius: 15px;
+    height: 185px;
+    color: #ffffff;
+    font-family: "B Nazanin";
+}
+.Assessment__main__description__logo {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px !important;
+}
+.Assessment__main__description__title {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px !important;
+}
+.Assessment__main__description__title span {
+    font-weight: 600;
+    font-size: 15px;
+}
+.Assessment__box__description__text {
+    font-size: 11px;
+    line-height: 17px;
+    text-align: justify;
+    letter-spacing: 0.005em;
+    padding: 10px 20px;
+    text-align-last: right;
+}
+
 .Assessment__main {
     display: flex;
     justify-content: center;
@@ -8,23 +44,22 @@
     background: #ffffff;
     box-shadow: 0px 0px 5px rgba(112, 107, 107, 0.25);
     border-radius: 15px;
-    height: 200px;
+    height: 190px;
 }
 .Assessment__box__header {
     display: flex;
     align-items: center;
     font-weight: 400;
     text-align: center;
-    height: 50px;
 }
 .Assessment__box__header__count {
     font-size: 15px;
-    color: #407bee;
+    color: #0c3877;
     direction: rtl;
 }
 .Assessment__box__header__title {
-    font-size: 20px;
-    color: #7e7878;
+    font-size: 15px;
+    color: #8d9290;
 }
 .Assessment__box__middle {
     display: flex;
@@ -33,26 +68,25 @@
     justify-content: center;
 }
 .Assessment__box__description {
-    font-weight: 400;
     font-size: 12px;
-    line-height: 109.5%;
+    line-height: 18px;
     text-align: justify;
-    color: #7e7878;
-    padding-right: 20px;
+    color: #8d9290;
+    padding-right: 15px;
     text-align-last: right;
 }
 
 .Assessment__box__image {
+    display: flex;
+    justify-content: center;
 }
 .Assessment__main__box__slider {
     display: flex;
     justify-content: space-around;
-    align-items: center;
+    padding: 10px;
 }
 .Assessment__main__box__slider__form {
     display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .Assessment__main__box__slider__form input[type="radio"] {
@@ -60,19 +94,19 @@
 }
 
 .Assessment__main__box__slider__form label {
-    margin: 2px;
-    width: 35px;
-    height: 35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 4px;
+    width: 50px;
+    height: 50px;
+    padding: 3px;
     color: #8e8989;
     font-size: 18px;
-    font-family: "B Nazanin";
     text-align: center;
     border-radius: 50%;
     -webkit-transition: 0.3s;
     transition: 0.3s;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 .Assessment__main__box__slider__form input[type="radio"]:checked + label {
@@ -82,44 +116,10 @@
     -webkit-transform: none;
     transform: none;
     font-size: 22px;
+    background-color: #0c3877;
+    color: #ffffff;
 }
 
-.Assessment__main__box__slider__form label:nth-of-type(1) {
-    background: #fce2d3;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(2) {
-    background: #f9e3d8;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(3) {
-    background: #f6e4dd;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(4) {
-    background: #f3e5e2;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(5) {
-    background: #f0e6e7;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(6) {
-    background: #eee8eb;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(7) {
-    background: #ebe9f0;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(8) {
-    background: #ebe9f0;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(9) {
-    background: #e5ebfa;
-}
-
-.Assessment__main__box__slider__form label:nth-of-type(10) {
-    background: #e2ecff;
+.Assessment__main__box__slider__form label {
+    background: #ecf1ff;
 }

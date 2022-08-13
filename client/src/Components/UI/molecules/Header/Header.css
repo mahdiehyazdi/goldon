@@ -1,8 +1,8 @@
 .header__main {
     justify-content: center;
     position: fixed;
-    background-color: rgb(255 255 255 / 77%);
-    border-radius: 2px 2px 15px 15px;
+    background-color: #ffffff;
+    border-radius: 0 0 20px 20px;
 }
 .header__box {
     height: 45px;
@@ -15,6 +15,6 @@
     font-family: "B Nazanin";
     font-style: normal;
     font-weight: 700;
-    font-size: 23px;
-    color: #76777c;
+    font-size: 16px;
+    color: #76777C;
 }

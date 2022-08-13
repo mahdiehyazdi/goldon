@@ -17,11 +17,9 @@ export default class Assessment extends Component {
     render() {
         return (
             <Grid container>
-                <Header title="خودشـنـاسـی" />
+                <Header title="جذابـيـت درونـي" />
                 <Grid xs={12} item style={{'padding': '40px 0 60px 0'}}>
-                <Assessment_box/>
-                <Assessment_box/>
-                <Assessment_box/>
+                <Assessment_box />
                 </Grid>
                 <Footer/>
             </Grid>

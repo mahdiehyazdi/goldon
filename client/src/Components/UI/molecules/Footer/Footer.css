@@ -1,15 +1,24 @@
-.footer__main{
+.footer__main {
     position: fixed;
     bottom: 0;
 }
 .footer__main__box {
-    /* position: absolute; */
-    height: 46px;
+    height: 40px;
     background: #ffffff;
-    box-shadow: 0px 0px 5px rgb(210 203 203 / 40%);
+    box-shadow: 0px 0px 20px #ced2d6;
     border-radius: 2px 2px 15px 15px;
     display: flex;
     align-items: center;
     justify-content: space-around;
-
+}
+.footer__main__box span {
+    font-family: "B Nazanin";
+    font-weight: 700;
+    font-size: 7px;
+    text-align: center;
+    color: #9da6ad;
+    padding-top: 3px;
+}
+.footer__main__box div{
+    display: grid;
 }

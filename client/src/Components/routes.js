@@ -1,4 +1,4 @@
-import { BrowserRouter, Routes, Route, Link, Navigate, HashRouter } from "react-router-dom";
+import { BrowserRouter, Routes, Route, Link, Navigate, HashRouter, Router } from "react-router-dom";
 import React, { useState, useEffect } from "react";
 
 import Assessment from "./Pages/Assessment/Assessment";
@@ -17,7 +17,7 @@ export default function AppRoutes(props) {
   return (
     <HashRouter>
       <Routes>
-        <Route exact path="/assessment" element={<Assessment />} />
+        <Route exact path="/app/assessment" element={<Assessment />} />
       </Routes>
     </HashRouter>
   );
