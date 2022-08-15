@@ -41,7 +41,7 @@ export default class App extends Component {
                 </Grid>
                 <Grid xs={12} item className="App__item">
                     <Grid xs={5.5} item className="App__item__box" id="courseRecommended">
-                        <a href="/#/app/assessment">
+                        <a href="goldon/#/app/assessment">
                             <span className="App__item__box__title">جذابـیـت درونـی</span>
                         </a>
                     </Grid>
