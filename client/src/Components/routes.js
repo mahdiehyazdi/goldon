@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route, Link, Navigate, HashRouter, Router } from
 import React, { useState, useEffect } from "react";
 
 import Assessment from "./Pages/Assessment/Assessment";
+import App from "./Pages/App/App";
 
 
 // function PrivateRoute({ children }) {
@@ -18,6 +19,8 @@ export default function AppRoutes(props) {
     <HashRouter>
       <Routes>
         <Route exact path="/app/assessment" element={<Assessment />} />
+        <Route exact path="/app" element={<App />} />
+        <Route exact path="/" element={<App />} />
       </Routes>
     </HashRouter>
   );

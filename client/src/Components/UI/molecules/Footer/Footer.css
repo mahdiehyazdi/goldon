@@ -11,7 +11,17 @@
     align-items: center;
     justify-content: space-around;
 }
-.footer__main__box span {
+.footer__main__box__back {
+    background: url("./SVG/footerback.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: center;
+    justify-content: space-around;
+    filter: drop-shadow(0px -4px 2px #ededed);
+    height: 45px;
+}
+.footer__main span {
     font-family: "B Nazanin";
     font-weight: 700;
     font-size: 7px;
@@ -19,6 +29,16 @@
     color: #9da6ad;
     padding-top: 3px;
 }
-.footer__main__box div{
+.footer__main div {
     display: grid;
+}
+
+#setting__icon__home {
+    padding-left: 50px;
+}
+
+#App__home__icon {
+    position: absolute;
+    bottom: 0px;
+    margin-left: 6px;
 }

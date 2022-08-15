@@ -9,7 +9,7 @@ export default class Header extends Component {
         return (
             <Grid container className="header__main">
                 <Grid xs={11} item className="header__box">
-                    <Back />
+                    {this.props.backIcon === "false" ? "\u00a0\u00a0" : <Back />}
                     <div className="header__box__title">{this.props.title ? this.props.title : "تعریف نشده"}</div>
                     <Logo />
                 </Grid>
