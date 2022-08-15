@@ -15,7 +15,7 @@ export default class App extends Component {
             <Grid container>
                 <Grid xs={12} item>
                     <Header backIcon="false" title="برنامه ها" />
-                    <Footer homeFooter="true"/>
+                    <Footer homeFooter="true" />
                 </Grid>
                 <Grid xs={12} item className="App__Title">
                     <span>لورم ایپسوم!</span>
@@ -41,7 +41,9 @@ export default class App extends Component {
                 </Grid>
                 <Grid xs={12} item className="App__item">
                     <Grid xs={5.5} item className="App__item__box" id="courseRecommended">
-                        <span className="App__item__box__title">جذابـیـت درونـی</span>
+                        <a href="/#/app/assessment">
+                            <span className="App__item__box__title">جذابـیـت درونـی</span>
+                        </a>
                     </Grid>
                     <Grid xs={5.5} item className="App__item__box">
                         <span className="App__item__box__title">جذابـیـت درونـی</span>

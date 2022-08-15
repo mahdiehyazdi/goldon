@@ -62,17 +62,24 @@
     font-family: "B Nazanin";
     width: 150px;
     height: 150px;
-    background: #ECF1FF;
-    color:#5B6762;
+    background: #ecf1ff;
+    color: #5b6762;
     box-shadow: 0px 0px 5px rgba(112, 107, 107, 0.25);
     border-radius: 15px;
     margin-top: 10px !important;
+    text-decoration: none;
 }
+.App__item__box a:visited {
+    color: inherit;
+  }
+  .App__item__box a {
+    text-decoration: none;
+  }
 .App__item__box__title {
     font-weight: 600;
     font-size: 15px;
 }
-#courseRecommended{
+#courseRecommended {
     background: #0c3877;
-    color:#ffffff;
+    color: #ffffff;
 }
