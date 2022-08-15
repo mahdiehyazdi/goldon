@@ -69,12 +69,11 @@
     margin-top: 10px !important;
     text-decoration: none;
 }
-.App__item__box a:visited {
+
+.App__item__box a {
     color: inherit;
-  }
-  .App__item__box a {
     text-decoration: none;
-  }
+}
 .App__item__box__title {
     font-weight: 600;
     font-size: 15px;
