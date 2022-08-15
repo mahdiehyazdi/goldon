@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/goldon/static/css/main.478b259d.css",
+    "main.css": "/goldon/static/css/main.1121137b.css",
     "main.js": "/goldon/static/js/main.ad43d7c8.js",
     "static/js/787.111076e7.chunk.js": "/goldon/static/js/787.111076e7.chunk.js",
     "static/media/B-NAZANIN.TTF": "/goldon/static/media/B-NAZANIN.d7478a9ecad2d8496d98.TTF",
@@ -19,12 +19,12 @@
     "index.html": "/goldon/index.html",
     "static/media/app.svg": "/goldon/static/media/app.22107746cc67ff50a511392a3b8020be.svg",
     "static/media/footerback.svg": "/goldon/static/media/footerback.15a58a9a124e575aefb3.svg",
-    "main.478b259d.css.map": "/goldon/static/css/main.478b259d.css.map",
+    "main.1121137b.css.map": "/goldon/static/css/main.1121137b.css.map",
     "main.ad43d7c8.js.map": "/goldon/static/js/main.ad43d7c8.js.map",
     "787.111076e7.chunk.js.map": "/goldon/static/js/787.111076e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.478b259d.css",
+    "static/css/main.1121137b.css",
     "static/js/main.ad43d7c8.js"
   ]
 }
