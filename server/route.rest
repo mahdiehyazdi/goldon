@@ -1,0 +1,46 @@
+GET http://localhost:3001/users
+
+
+###
+
+
+POST http://localhost:3001/goldon/users
+Content-Type: application/json
+
+{
+    "phoneNumber":"11223",
+    "email":"mmm",
+    "password":"sss",
+    "fullName":"sssss"
+}
+
+
+####
+POST http://localhost:3001/goldon/selfworth
+Content-Type: application/json
+
+{
+    "courseTime": {
+        "hour": 19,
+        "minutes": 0
+    },
+     "session": {
+        "sessionCount": 40,
+        "courseName": "طلسم روانی"
+    }, 
+
+    "courseTeacher": {
+        "firstName": "سوده",
+        "lastName": "هروی"
+    },
+    "fileType": 1,
+    "courseTopics":"سرفصل های دوره",
+    "link":"https://zendegiesalem.com/fa/%D8%AF%D9%88%D8%B1%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C/%D8%AA%DA%A9-%D8%AF%D9%88%D8%B1%D9%87-%D9%87%D8%A7/%D8%AF%D9%88%D8%B1%D9%87-%D8%B7%D9%84%D8%B3%D9%85-%D8%B1%D9%88%D8%A7%D9%86%DB%8C/",
+    "icon":"noicon",
+    "courseRecommended": true
+}
+
+###
+
+GET http://localhost:3001/goldon/selfworth/getSelfKnowledge
+
