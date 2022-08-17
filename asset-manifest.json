@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/goldon/static/css/main.1121137b.css",
-    "main.js": "/goldon/static/js/main.34a9bade.js",
+    "main.css": "/goldon/static/css/main.fb129ed4.css",
+    "main.js": "/goldon/static/js/main.24b0059b.js",
     "static/js/787.111076e7.chunk.js": "/goldon/static/js/787.111076e7.chunk.js",
     "static/media/B-NAZANIN.TTF": "/goldon/static/media/B-NAZANIN.d7478a9ecad2d8496d98.TTF",
     "service-worker.js": "/goldon/service-worker.js",
@@ -17,14 +17,15 @@
     "static/media/filter.svg": "/goldon/static/media/filter.05e4716050c097cf98c31e44ba50cf14.svg",
     "static/media/back.svg": "/goldon/static/media/back.c87dfa085ff1f6cd08650e6585454c87.svg",
     "index.html": "/goldon/index.html",
+    "static/media/menu.svg": "/goldon/static/media/menu.08ba13ee5209dcfab0c65ce08dc8e15f.svg",
     "static/media/app.svg": "/goldon/static/media/app.22107746cc67ff50a511392a3b8020be.svg",
     "static/media/footerback.svg": "/goldon/static/media/footerback.15a58a9a124e575aefb3.svg",
-    "main.1121137b.css.map": "/goldon/static/css/main.1121137b.css.map",
-    "main.34a9bade.js.map": "/goldon/static/js/main.34a9bade.js.map",
+    "main.fb129ed4.css.map": "/goldon/static/css/main.fb129ed4.css.map",
+    "main.24b0059b.js.map": "/goldon/static/js/main.24b0059b.js.map",
     "787.111076e7.chunk.js.map": "/goldon/static/js/787.111076e7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1121137b.css",
-    "static/js/main.34a9bade.js"
+    "static/css/main.fb129ed4.css",
+    "static/js/main.24b0059b.js"
   ]
 }
